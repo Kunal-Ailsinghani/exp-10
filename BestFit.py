@@ -1,4 +1,4 @@
-    def best_fit(blocks, processes):
+def best_fit(blocks, processes):
     """
     Implements the Best Fit memory allocation algorithm.
     
